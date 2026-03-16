@@ -1,2 +1,3 @@
 # MissionDemolition
-Angry birds rip off for class
+## Enhancements
+Created 3 new projectile types that are used at random. These new projectile types have different colors, masses, and drags to add more variety into the game. There is a light and "floatier" version of the normal projectile, there is a heavier projectile with more drag, and there is a final projectile with a mass 100 times greater than the normal projectile for some fun watching it rip apart the castles. The light projectile has a lighter gray look whith the heavier projectile having a black. The "fun" projectile has a green look to make it really stand out from the others. 
